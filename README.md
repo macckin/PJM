@@ -14,4 +14,6 @@
 - moter driver : l298n
 - 몸체 : 3d printing
 - 통신 : nrf24l01
+
+### 내부 단면 (초기 버전 - solidworks)
 <img width="571" height="713" alt="1312312" src="https://github.com/user-attachments/assets/58b9d84d-f78a-4442-91de-6e154adc3038" />
