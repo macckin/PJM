@@ -11,5 +11,6 @@
 - mcu : Arduino mega
 - DC moter : 755 DC
 - encoder moter : DC encoder moter
+- moter driver : l298n
 - 몸체 : 3d printing
 - 통신 : nrf24l01
